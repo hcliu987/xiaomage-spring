@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/thinking-in-spring/aop-overview/aop-overview.iml" filepath="$PROJECT_DIR$/thinking-in-spring/aop-overview/aop-overview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thinking-in-spring/thinking-in-spring.iml" filepath="$PROJECT_DIR$/thinking-in-spring/thinking-in-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/xiaomage-spring.iml" filepath="$PROJECT_DIR$/.idea/xiaomage-spring.iml" />
+    </modules>
+  </component>
+</project>
