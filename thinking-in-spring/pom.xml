@@ -11,6 +11,7 @@
   <modules>
     <module>aop-overview</module>
       <module>aop-features</module>
+      <module>annotation</module>
   </modules>
   <packaging>pom</packaging>
 

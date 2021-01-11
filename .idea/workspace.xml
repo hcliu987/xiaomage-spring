@@ -4,50 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c578d705-44b4-4c51-8302-de6fe9c2929d" name="Default Changelist" comment="spring 准备文件">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-in-spring/aop-features/aop-features.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-in-spring/aop-features/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-in-spring/aop-features/src/main/java/org/geekbang/thinking/in/spring/aop/features/AspectJAnnotatedPointcutDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-in-spring/aop-features/src/main/java/org/geekbang/thinking/in/spring/aop/features/AspectJAnnotationDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-in-spring/aop-features/src/main/java/org/geekbang/thinking/in/spring/aop/features/AspectJAnnotationUsingAPIDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-in-spring/aop-features/src/main/java/org/geekbang/thinking/in/spring/aop/features/AspectJSchemaBasedAutoProxyDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-in-spring/aop-features/src/main/java/org/geekbang/thinking/in/spring/aop/features/AspectJSchemaBasedPointcutDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-in-spring/aop-features/src/main/java/org/geekbang/thinking/in/spring/aop/features/AspectJXmlDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-in-spring/aop-features/src/main/java/org/geekbang/thinking/in/spring/aop/features/MyThrowsAdvice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-in-spring/aop-features/src/main/java/org/geekbang/thinking/in/spring/aop/features/PointcutAPIDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-in-spring/aop-features/src/main/java/org/geekbang/thinking/in/spring/aop/features/ProxyFactoryBeanDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-in-spring/aop-features/src/main/java/org/geekbang/thinking/in/spring/aop/features/ProxyFactoryDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-in-spring/aop-features/src/main/java/org/geekbang/thinking/in/spring/aop/features/ThrowsAdviceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-in-spring/aop-features/src/main/java/org/geekbang/thinking/in/spring/aop/features/advisor/IntroductionAdvisorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-in-spring/aop-features/src/main/java/org/geekbang/thinking/in/spring/aop/features/aspect/AspectConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-in-spring/aop-features/src/main/java/org/geekbang/thinking/in/spring/aop/features/aspect/AspectConfiguration2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-in-spring/aop-features/src/main/java/org/geekbang/thinking/in/spring/aop/features/aspect/AspectXmlConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-in-spring/aop-features/src/main/java/org/geekbang/thinking/in/spring/aop/features/interceptor/EchoServiceMethodInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-in-spring/aop-features/src/main/java/org/geekbang/thinking/in/spring/aop/features/pointcut/EchoServiceEchoMethodPointcut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-in-spring/aop-features/src/main/java/org/geekbang/thinking/in/spring/aop/features/pointcut/EchoServicePointcut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-in-spring/aop-features/src/main/resources/META-INF/spring-aop-auto-proxy-context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-in-spring/aop-overview/src/main/java/org/geekbang/thinking/in/spring/aop/overview/AfterReturnInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-in-spring/aop-overview/src/main/java/org/geekbang/thinking/in/spring/aop/overview/AopInterceptorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-in-spring/aop-overview/src/main/java/org/geekbang/thinking/in/spring/aop/overview/BeforeInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-in-spring/aop-overview/src/main/java/org/geekbang/thinking/in/spring/aop/overview/CglibDynamicProxyDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-in-spring/aop-overview/src/main/java/org/geekbang/thinking/in/spring/aop/overview/ClassLoadingDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-in-spring/aop-overview/src/main/java/org/geekbang/thinking/in/spring/aop/overview/DefaultEchoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-in-spring/aop-overview/src/main/java/org/geekbang/thinking/in/spring/aop/overview/EchoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-in-spring/aop-overview/src/main/java/org/geekbang/thinking/in/spring/aop/overview/ExceptionInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-in-spring/aop-overview/src/main/java/org/geekbang/thinking/in/spring/aop/overview/FinallyInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-in-spring/aop-overview/src/main/java/org/geekbang/thinking/in/spring/aop/overview/JdkDynamicProxyDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-in-spring/aop-overview/src/main/java/org/geekbang/thinking/in/spring/aop/overview/ProxyEchoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-in-spring/aop-overview/src/main/java/org/geekbang/thinking/in/spring/aop/overview/StaticProxyDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinking-in-spring/aop-overview/src/main/java/org/geekbang/thinking/in/spring/aop/overview/TargetFilterDemo.java" afterDir="false" />
+    <list default="true" id="c578d705-44b4-4c51-8302-de6fe9c2929d" name="Default Changelist" comment="spring aop aspect代理,jdk代理,cglib代理">
+      <change afterPath="$PROJECT_DIR$/thinking-in-spring/annotation/annotation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thinking-in-spring/annotation/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thinking-in-spring/annotation/src/main/java/org/geekbang/thinking/in/spring/annotation/AttributeOverridesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thinking-in-spring/annotation/src/main/java/org/geekbang/thinking/in/spring/annotation/ComponentScanDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thinking-in-spring/annotation/src/main/java/org/geekbang/thinking/in/spring/annotation/EnableHelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thinking-in-spring/annotation/src/main/java/org/geekbang/thinking/in/spring/annotation/EnableModuleDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thinking-in-spring/annotation/src/main/java/org/geekbang/thinking/in/spring/annotation/EvenProfileCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thinking-in-spring/annotation/src/main/java/org/geekbang/thinking/in/spring/annotation/HelloWorldConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thinking-in-spring/annotation/src/main/java/org/geekbang/thinking/in/spring/annotation/HelloWorldImportBeanDefinitionRegistrar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thinking-in-spring/annotation/src/main/java/org/geekbang/thinking/in/spring/annotation/HelloWorldImportSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thinking-in-spring/annotation/src/main/java/org/geekbang/thinking/in/spring/annotation/MyComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thinking-in-spring/annotation/src/main/java/org/geekbang/thinking/in/spring/annotation/MyComponent2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thinking-in-spring/annotation/src/main/java/org/geekbang/thinking/in/spring/annotation/MyComponentScan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thinking-in-spring/annotation/src/main/java/org/geekbang/thinking/in/spring/annotation/MyComponentScan2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thinking-in-spring/annotation/src/main/java/org/geekbang/thinking/in/spring/annotation/ProfileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thinking-in-spring/annotation/src/main/java/org/geekbang/thinking/in/spring/annotation/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thinking-in-spring/aop-features/src/main/resources/META-INF/spring-aop-context.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thinking-in-spring/aop-overview/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/thinking-in-spring/aop-overview/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thinking-in-spring/aop-features/src/main/resources/META-INF/spring-aop-auto-proxy-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/thinking-in-spring/aop-features/src/main/resources/META-INF/spring-aop-auto-proxy-context.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/thinking-in-spring/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/thinking-in-spring/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +37,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -92,6 +71,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.geekbang.thinking.in.spring.annotation" />
       <recent name="org.geekbang.thinking.in.spring.aop.overview" />
     </key>
   </component>
@@ -195,7 +175,7 @@
       <workItem from="1610333677755" duration="184000" />
       <workItem from="1610333902646" duration="1335000" />
       <workItem from="1610351042073" duration="4718000" />
-      <workItem from="1610356746242" duration="3787000" />
+      <workItem from="1610356746242" duration="5063000" />
     </task>
     <task id="LOCAL-00001" summary="spring 准备文件">
       <created>1610334070637</created>
@@ -211,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610334667162</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="spring aop aspect代理,jdk代理,cglib代理">
+      <created>1610360630170</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610360630170</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,6 +218,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="spring 准备文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="spring 准备文件" />
+    <MESSAGE value="spring aop aspect代理,jdk代理,cglib代理" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring aop aspect代理,jdk代理,cglib代理" />
   </component>
 </project>

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/thinking-in-spring/annotation/annotation.iml" filepath="$PROJECT_DIR$/thinking-in-spring/annotation/annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/thinking-in-spring/aop-features/aop-features.iml" filepath="$PROJECT_DIR$/thinking-in-spring/aop-features/aop-features.iml" />
       <module fileurl="file://$PROJECT_DIR$/thinking-in-spring/aop-overview/aop-overview.iml" filepath="$PROJECT_DIR$/thinking-in-spring/aop-overview/aop-overview.iml" />
       <module fileurl="file://$PROJECT_DIR$/thinking-in-spring/thinking-in-spring.iml" filepath="$PROJECT_DIR$/thinking-in-spring/thinking-in-spring.iml" />

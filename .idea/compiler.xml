@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="annotation" />
         <module name="aop-overview" />
         <module name="aop-features" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="annotation" target="1.8" />
       <module name="aop-features" target="1.8" />
       <module name="aop-overview" target="1.8" />
       <module name="thinking-in-spring" target="1.8" />
